@@ -22,4 +22,3 @@
    	 <button>Magic</button>
     </form>
 </div>
-
