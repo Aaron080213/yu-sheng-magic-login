@@ -1,5 +1,6 @@
 <script>
 	import '../app.scss';
+	import '../app.scss';
 	// import '../app.scss'; // Bootstrap 5
 	import supabase from '$lib/db';
 	import { page, session } from '$app/stores';
